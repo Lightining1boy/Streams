@@ -1,0 +1,88 @@
+{
+  "streams": [
+    {
+      "title": "Rocket League Stream",
+      "description": "The first stream on this site.",
+      "id": 3,
+      "video": "181015_13_Venice Beach Drone_25.mp4"
+    },
+    {
+      "title": "Elden Ring Stream",
+      "description": "The second stream on this site.",
+      "id": 4,
+      "video": "210329_06B_Bali_1080p_005.mp4"
+    },
+    {
+      "title": "GTA Stream",
+      "description": "The third stream on this site.",
+      "id": 5,
+      "video": "171124_H1_006.mp4"
+    },
+    {
+      "title": "MINECRAFT Stream",
+      "description": "The fourth stream on this site.",
+      "id": 6,
+      "video": "210329_06B_Bali_1080p_014.mp4"
+    },
+    {
+      "title": "VALARANT Stream",
+      "description": "The fifth stream on this site.",
+      "id": 7,
+      "video": "181015_Extra_DanangDrone_004.mp4"
+    },
+    {
+      "title": "FIFA 22 Stream",
+      "description": "The sixth stream on this site.",
+      "id": 8,
+      "video": "190915_A_04_Drone_09.mp4"
+    },
+    {
+      "title": "LEAGUE OF LEGENDS League Stream",
+      "description": "The seventh stream on this site.",
+      "id": 10,
+      "video": "181015_13_Venice Beach Drone_25.mp4"
+    },
+    {
+      "title": "Sports Stream",
+      "description": "The 8th stream on this site.",
+      "id": 11,
+      "video": "210329_06B_Bali_1080p_005.mp4"
+    },
+    {
+      "title": "MONARCH Stream",
+      "description": "The nineth stream on this site.",
+      "id": 12,
+      "video": "171124_H1_006.mp4"
+    },
+    {
+      "title": "OVERWATCH Stream",
+      "description": "The tenth stream on this site.",
+      "id": 13,
+      "video": "210329_06B_Bali_1080p_005.mp4"
+    },
+    {
+      "title": "APEX LEGENDS Stream",
+      "description": "The eleventh stream on this site.",
+      "id": 14,
+      "video": "181015_13_Venice Beach Drone_25.mp4"
+    },
+    {
+      "title": "FORTNITE Stream",
+      "description": "The twelth stream on this site.",
+      "id": 15,
+      "video": "210329_06B_Bali_1080p_005.mp4"
+    },
+    {
+      "title": "Spencers First Stream",
+      "description": "My Stream!",
+      "userId": "101538225433102867958",
+      "id": 16
+    },
+    {
+      "title": "HERE WE GO BOYS!!",
+      "description": "LEROY JANKINS!!!!",
+      "userId": "101538225433102867958",
+      "id": 17
+    }
+  ]
+}
